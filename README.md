@@ -1,1 +1,1 @@
-#### This is the place where you'll find the basics of NLP. 
+#### Hi guys, this is where you'll find the basics of NLP techniques. 
